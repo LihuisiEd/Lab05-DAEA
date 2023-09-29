@@ -1,0 +1,2 @@
+Msg 208, Level 16, State 1, Server c6d25dd9f1bf, Line 1
+Invalid object name 'SalesLT.SalesOrderHeader'.

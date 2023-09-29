@@ -1,0 +1,2 @@
+Msg 2760, Level 16, State 1, Server c6d25dd9f1bf, Line 1
+The specified schema name "SalesLT" either does not exist or you do not have permission to use it.
